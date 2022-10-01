@@ -1,2 +1,4 @@
 # timeline
-css timeline design
+Css timeline design.
+
+![timeline thing](./timeline.png)
